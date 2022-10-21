@@ -6,7 +6,7 @@
 ## Contents
 
 0. [Preamble](#preamble)
-1. [AboutMe](#aboutme)
+1. [About me](#aboutme)
 
 
 ## Preamble
