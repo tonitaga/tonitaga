@@ -2,12 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+C%2B%2B+programmer+from+Russia" alt="Typing SVG" /></a>
 
+---
 
 ## Contents
 
 0. [Preamble](#preamble)
 1. [About me](#about-me)
+2. [Social Networking Services](#social-networking-services)
+3. [Stack](#stack)
+4. [Activity](#activity)
+5. [Languages Stats](#languages-stats)
 
+---
 
 ## Preamble
 
@@ -45,46 +51,79 @@
 
 *-- Ближе к концу апреля 2022*
 
+---
 
-## About me
+### About me
 
-## Information
+Всем привет! Меня зовут Губайдуллин Нурислам. Я начинающий С++/C# разработчик. Мой путь в IT начался с проекта Сбербанка - **School21**
+Специализируюсь на алгоритмах, начинающий игродел, изучаю **Unity Engine и Unreal Engine**
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+На данный момент прохожу обучение в школе программирования **School21** уже больше года. Сделано более 15 различных проектов, большинство из которых командные, в качестве TeamLead.
+
+Пишу статьи на хабре по поводу различных алгоритмов. Ознакомиться с моим профилем на хабре можно в оглавлении Social Networking Services
+На данный момент нахожусь в топ100 хабр-аккаунтов по Татарстану.
+
+Прошел отбор на стажировку в академию компании **Ninsar.Games**. Моей задачей является GamePlay разработка, разработка игровых механик на **C#/Unity**.
+Планирую продолжать игровое начинание, но и backend разработка тоже очень привлекает.
+
+---
+
+### Social Networking Services
+
+<div id="badges">
+    <a href="https://vk.com/tonitaga" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Profile" />
+    </a>
+    <a href="https://t.me/tonitaga" target="_blank">
+      <img src="images/telegram.png" width="40" height="40" alt="Telegram"/>
+    </a>
+    <a href="https://t.me/gubaydullin_nurislam" target="_blank">
+      <img src="images/telegram_channel.png" width="40" height="40" alt="Telegram Channel"/>
+    </a>
+    <a href="https://habr.com/ru/users/tonitaga" target="_blank">
+      <img src="images/habr.png" width="40" height="40" alt="Habr Profile"/>
+    </a>
 </div>
 
-####
+---
 
-Я Губайдуллин Нурислам, мне 20 лет, живу в городе Казань.
+### Stack
 
-На данный момент изучаю программирование *13 месяцев*, являюсь студентом основного направления школы программирования *School21*
+<div>
+  <img src="images/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="images/c.png" title="html5" alt="CLanguage" width="40" height="40"/>&nbsp
+  <img src="images/c++.png" title="css" alt="CPlusPlusLanguage" width="40" height="40"/>&nbsp
+  <img src="images/csharp.png" title="css" alt="CSharp" width="40" height="40"/>&nbsp
+  <img src="images/qt.png" title="css" alt="QtFramework" width="40" height="40"/>&nbsp
+  <img src="images/postgresql.png" title="css" alt="PostgreSql" width="40" height="40"/>&nbsp
+  <img src="images/unity.png" title="css" alt="UnityEngine" width="40" height="40"/>&nbsp
+  <img src="images/unreal.png" title="css" alt="UnrealEngine" width="40" height="40"/>&nbsp
+</div>
 
-Специализируюсь на языке *С++*, интересуюсь и постоянно изучаю фреймворк *Qt* и *OpenGL*
+---
 
-Изучаю *C#*
+### Activity
 
-Нет опыта работы в какой-либо компании, но очень стремлюсь к этому
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=tonitaga&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+  </tr>
+</table>
 
-Делаю интересные проекты, которые вы можете посмотреть в списке моих репозиториев
+---
 
-####
+### Languages Stats
 
-###### Readme.md version 1.0.1
-###### Update from 20.03.2023
+<table>
+  <tr>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tonitaga&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
+---
 
-<!--
-**tonitaga/tonitaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Readme.md v. 1.0.2. Update from 04.08.2023
