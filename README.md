@@ -91,13 +91,13 @@
 
 <div>
   <img src="images/git.png" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="images/c.png" title="html5" alt="CLanguage" width="40" height="40"/>&nbsp
-  <img src="images/c++.png" title="css" alt="CPlusPlusLanguage" width="40" height="40"/>&nbsp
-  <img src="images/csharp.png" title="css" alt="CSharp" width="40" height="40"/>&nbsp
-  <img src="images/qt.png" title="css" alt="QtFramework" width="40" height="40"/>&nbsp
-  <img src="images/postgresql.png" title="css" alt="PostgreSql" width="40" height="40"/>&nbsp
-  <img src="images/unity.png" title="css" alt="UnityEngine" width="40" height="40"/>&nbsp
-  <img src="images/unreal.png" title="css" alt="UnrealEngine" width="40" height="40"/>&nbsp
+  <img src="images/c.png" title="CLanguage" alt="CLanguage" width="40" height="40"/>&nbsp
+  <img src="images/c++.png" title="CPlusPlusLanguage" alt="CPlusPlusLanguage" width="40" height="40"/>&nbsp
+  <img src="images/csharp.png" title="CSharpLanguage" alt="CSharpLanguage" width="40" height="40"/>&nbsp
+  <img src="images/qt.png" title="QtFramework" alt="QtFramework" width="40" height="40"/>&nbsp
+  <img src="images/postgresql.png" PostgreSql="css" alt="PostgreSql" width="40" height="40"/>&nbsp
+  <img src="images/unity.png" title="UnityEngine" alt="UnityEngine" width="40" height="40"/>&nbsp
+  <img src="images/unreal.png" title="UnrealEngine" alt="UnrealEngine" width="40" height="40"/>&nbsp
 </div>
 
 ---
