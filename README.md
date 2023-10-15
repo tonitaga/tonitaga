@@ -19,52 +19,49 @@
 
 ![MyBio](/images/1.png)
 
-Где-то около кофейного автомата в 21-ом:
+Somewhere near the coffee machine at the end of 2021:
 
-*-- Слушай, тебе же нравится программирование, не думал пойти на курсы какие нибудь?*
+*-- Hey, you really enjoy programming, have you ever thought about taking some courses?*
 
-*- Да, нравится, но я не знаю даже где лучше обучиться*
+*- Yes, I do, but I don't even know where to learn programming.*
 
-*-- Так есть же в нашем городе школа программирования под названием "School 21"*
+*-- Well, there's a programming school in our city called "School 21".*
 
-*- Ах, да, как я мог забыть об этом, пойду собирать документы и готовиться проходить отборочный этап*
+*- Oh, right, how could I forget about that? I'll start gathering my documents and prepare for the selection process.*
 
-*-- Удачи!*
+*-- Good luck!*
 
-Спустя пару месяцев:
+A couple of months later:
 
-*- Слушай, мне так страшно и не по себе от того что я полный ноль в программировании*
+*- Hey, I feel so scared and uncomfortable because I'm a complete beginner in programming.*
 
-*-- Ничего страшного, все когда-то начинали с нуля, прорвемся!*
+*-- Don't worry, everyone starts from scratch, we'll get through it!*
 
-*- Сегодня был первый день, там оказывается нет преподавателей, а обучение проходит по системе peer-to-peer*
+*- Today was the first day, turns out there are no teachers there, and the learning is based on a peer-to-peer system.*
 
-*-- Ого, а что это такое?*
+*-- Wow, what's that?*
 
-*- Это когда обучение базируется на идее массового сотрудничества в сочетании с тесным взаимодействием с другими участниками*
+*- It means that the learning is based on the idea of mass collaboration combined with close interaction with other participants.*
 
-Спустя месяц усердного прохождения отборочного этапа:
+After a month of diligent completion of the selection stage:
 
-*-- Мне пришло на почту письмо сегодня, там написано что меня приняли на основное обучение*
+*-- I received an email today, it says that I've been accepted for the main training program.*
 
-*- Поздравляю тебя, когда начинается основное обучение?*
+*- Congratulations! When does the main training start?*
 
-*-- Ближе к концу апреля 2022*
+*-- It starts closer to the end of April 2022.*
 
 ---
 
 ### About me
 
-Всем привет! Меня зовут Губайдуллин Нурислам. Я С++/C# разработчик. Мой путь в IT начался с проекта Сбербанка - **School21**
-Специализируюсь на алгоритмах, начинающий игродел, изучаю **Unity Engine и Unreal Engine**
+Hello everyone! My name is Nurislam Gubaydullin. I am a C++/C# developer. My journey in IT started with a project at Sberbank - School21. I specialize in algorithms and I'm an aspiring game developer, currently learning Unity Engine and Unreal Engine.
 
-На данный момент прохожу обучение в школе программирования **School21** уже больше года. Сделано более 15 различных проектов, большинство из которых командные, в качестве TeamLead.
+Currently, I am undergoing training at School21 for over a year. I have completed more than 15 different projects, most of which were team projects where I served as a Team Lead.
 
-Пишу статьи на хабре по поводу различных алгоритмов. Ознакомиться с моим профилем на хабре можно в оглавлении Social Networking Services.
-На данный момент нахожусь в топ100 хабр-аккаунтов по Татарстану.
+I write articles on Habr about various algorithms. You can find my profile on Habr in the Social Networking Services section. Currently, I am among the top 100 Habr accounts in Tatarstan.
 
-Прошел отбор на стажировку в академию компании **Ninsar.Games**. Моей задачей является GamePlay разработка, разработка игровых механик на **C#/Unity**.
-Планирую продолжать игровое начинание, но и backend разработка тоже очень привлекает.
+I successfully passed the selection process for an internship at Ninsar.Games. My task is Gameplay development, designing game mechanics using C# and Unity. I plan to continue my game development journey, but I am also very interested in backend development.
 
 ---
 
@@ -126,4 +123,4 @@
 
 ---
 
-###### Readme.md v. 1.0.2. Update from 04.08.2023
+###### Readme.md v. 1.0.3. Update from 15.10.2023
