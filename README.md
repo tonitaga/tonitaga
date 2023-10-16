@@ -80,6 +80,9 @@ I successfully passed the selection process for an internship at Ninsar.Games. M
     <a href="https://habr.com/ru/users/tonitaga" target="_blank">
       <img src="images/habr.png" width="40" height="40" alt="Habr Profile"/>
     </a>
+    <a href="https://youtube.com/@tonitaga?si=L_jxDR-306qhxJAT" target="_blank">
+      <img src="images/youtube.png" width="40" height="40" alt="Youtube Channel"/>
+    </a>
 </div>
 
 ---
@@ -123,4 +126,4 @@ I successfully passed the selection process for an internship at Ninsar.Games. M
 
 ---
 
-###### Readme.md v. 1.0.3. Update from 15.10.2023
+###### Readme.md v. 1.0.4. Update from 16.10.2023
