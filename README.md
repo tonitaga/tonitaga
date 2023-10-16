@@ -8,7 +8,7 @@
 
 0. [Preamble](#preamble)
 1. [About me](#about-me)
-2. [Social Networking Services](#social-networking-services)
+2. [Social Networking Services](#social-networking-services-clickable)
 3. [Stack](#stack)
 4. [Activity](#activity)
 5. [Languages Stats](#languages-stats)
@@ -65,7 +65,7 @@ I successfully passed the selection process for an internship at Ninsar.Games. M
 
 ---
 
-### Social Networking Services
+### Social Networking Services [clickable]
 
 <div id="badges">
     <a href="https://vk.com/tonitaga" target="_blank">
